@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+#my-Sidebar {
+        width: 250px;
+        padding: 20px;
+        margin-bottom: 20px;
+        float: left;
+        margin-left:130px;
+        margin-top:80px;
+      }
+ 
+ ul{
+ 	list-style:none;
+ }
+ 
+ * { 
+	margin: 0; padding: 0;
+}
+
+#main{
+	width:1300px;
+	
+}
